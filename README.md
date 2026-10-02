@@ -1,5 +1,6 @@
 ##
-  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=HendrickOC&show_icons=true&theme=dark&hide=issues)](https://github.com/HendrickOC)
+  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=HendricksOC&show_icons=true&theme=dark&hide=issues)](https://github.com/HendricksOC)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendricksOC&layout=compact&theme=dark)](https://github.com/HendricksOC)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;&nbsp;&nbsp;
