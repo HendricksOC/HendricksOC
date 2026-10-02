@@ -1,6 +1,5 @@
 ##
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HendrickOC)](https://github.com/stats-organization/github-stats-extended&show_icons=true&commits_year=2026)
-
+  [![GitHub stats](https://github-stats-extended.vercel.app/api?username=HendrickOC&show_icons=true&theme=dark&hide=issues)](https://github.com/HendrickOC)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;&nbsp;&nbsp;
